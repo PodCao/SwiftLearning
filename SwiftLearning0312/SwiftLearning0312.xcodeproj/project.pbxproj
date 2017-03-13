@@ -16,6 +16,7 @@
 		77D62C351E75316200BA45DF /* SwiftLearning0312Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D62C341E75316200BA45DF /* SwiftLearning0312Tests.swift */; };
 		77D62C401E75316200BA45DF /* SwiftLearning0312UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D62C3F1E75316200BA45DF /* SwiftLearning0312UITests.swift */; };
 		77D62C4E1E753B9D00BA45DF /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D62C4D1E753B9D00BA45DF /* TestView.swift */; };
+		77D62C501E763F2200BA45DF /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77D62C4F1E763F2200BA45DF /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		77D62C3F1E75316200BA45DF /* SwiftLearning0312UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearning0312UITests.swift; sourceTree = "<group>"; };
 		77D62C411E75316200BA45DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77D62C4D1E753B9D00BA45DF /* TestView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		77D62C4F1E763F2200BA45DF /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				77D62C1C1E75316200BA45DF /* AppDelegate.swift */,
 				77D62C1E1E75316200BA45DF /* ViewController.swift */,
 				77D62C4D1E753B9D00BA45DF /* TestView.swift */,
+				77D62C4F1E763F2200BA45DF /* Person.swift */,
 				77D62C201E75316200BA45DF /* Main.storyboard */,
 				77D62C261E75316200BA45DF /* Assets.xcassets */,
 				77D62C281E75316200BA45DF /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77D62C501E763F2200BA45DF /* Person.swift in Sources */,
 				77D62C4E1E753B9D00BA45DF /* TestView.swift in Sources */,
 				77D62C251E75316200BA45DF /* SwiftLearning0312.xcdatamodeld in Sources */,
 				77D62C1F1E75316200BA45DF /* ViewController.swift in Sources */,
